@@ -1,0 +1,659 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"l",
+				"load"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ob_",
+				"ob_flush"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"create",
+				"create_custom_post_permission"
+			],
+			[
+				"a",
+				"async\tAttr"
+			],
+			[
+				"mysql_real",
+				"mysql_real_escape_string"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"Name",
+				"Namespace"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/wrapperapi/index.php",
+		"/C/xampp/htdocs/cosmosure/wp-content/plugins/rss-post-importer/app/class-rss-post-importer.php",
+		"/C/xampp/htdocs/cosmosure/wp-content/plugins/rss-post-importer/app/classes/import/class-rss-pi-engine.php",
+		"/C/xampp/htdocs/drupal/core/themes/bartik/bartik.info.yml",
+		"/C/xampp/htdocs/drupal/core/themes/bartik/bartik.theme",
+		"/C/Users/Ujjal/AppData/Local/Temp/wprss",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/theme-widgets.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/theme-functions.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/post-single.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/xampp/htdocs/wrapperapi/classes/class.ion-wrapper-api2.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/options.php",
+		"/E/raw-wordpress/wordpress-4.9.5/wordpress/wp-content/themes/twentyseventeen/header.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/MyPlugin.php",
+		"/E/raw-wordpress/wordpress-4.9.5/wordpress/wp-config-sample.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/index 2.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/404.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/contact-form.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/lvrecentposts.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/metaboxes.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/nav-menu.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/plugin-activation.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/theme-actions.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/twitteroauth.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/welcome-message.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-ad125.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-ad300.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-ad728.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-authorposts.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-before-after.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-catposts.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-fblikebox.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-gallery-images.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-patient-reviews.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-popular.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-postslider.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-recentposts.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-relatedposts.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-review-tab.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-services.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-social.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-subscribe.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-tabs.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-testmonial.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/widget-tweets.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/Appoitment.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/archive.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/category-query.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/comments.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/json-ld.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/page-contact.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/page-nosidebar.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/page-parallax.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/search.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/searchform.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single-gallery.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/singlepost-parallax.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/surgical-procedurespage.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/taxonomy-gallery_cats.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-before-after.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-home.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-our-team.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-page-full.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-page-sidebar.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/theme-options.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/theme-presets.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/transaction-success.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/wejnswpwhitespacefix.php",
+		"/C/xampp/htdocs/wrapperapi/classes/interface.ion-wrapper-api.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/featured-post.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/help.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/settings.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/class-post-meta.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/class-my-custom-mpm-rest-namespace.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/class-count-post-view.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/medico-post-meta.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/AskMedico.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/301-redirects.php",
+		"/E/Projects/CosmoSureClinic/11-4-2018/plugins/301-redirects/301-redirects.php",
+		"/E/Project-backup/Cosmosure/backup-20-2-2018/cosmosure-20-2-2018/wp-config.php",
+		"/E/raw-wordpress/wordpress-4.9.5/wordpress/wp-content/themes/twentyseventeen/archive.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/themes/hairsure-child/single-health-blogs.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/themes/hairsure-child/index.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/themes/hairsure-child/tag.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/plugins/medico-post-meta/css/mpmfront.css",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/mpmfront.css",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/mpmpostmeta.css",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/plugins/medico-post-meta/css/mpmpostmeta.css",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/plugins/medico-post-meta/medico-post-meta.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/themes/hairsure-child/header.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-content/plugins/medico-post-meta/includes/help.php",
+		"/C/xampp/htdocs/besthairtransplanthyd/wp-config.php",
+		"/C/xampp/htdocs/drupal/sites/default/settings.php",
+		"/E/Project-backup/BesthairTransplantHyd/myrightd_hairsuretransplant.sql",
+		"/C/Users/Ujjal/Downloads/optimized_contents/MANIFEST",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/iondemo-forms.php",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/includes/ion-ask-query-form.php",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/includes/ion-query-widget.php",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/includes/ion-forms-usage-instructions.php",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/includes/ion-forms-plugin-deactivate.php",
+		"/C/Users/Ujjal/Downloads/iondemo-forms/iondemo-forms/includes/ion-forms-plugin-activate.php",
+		"/C/xampp/htdocs/drupal/core/themes/bartik/templates/node.html.twig",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/codestar/wp-content/themes/twentyseventeen/cs-framework/config/customize.config.php",
+		"/C/xampp/htdocs/codestar/wp-content/themes/twentyseventeen/cs-framework/config/shortcode.config.php",
+		"/C/xampp/htdocs/codestar/wp-content/themes/twentyseventeen/cs-framework/config/metabox.config.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/template-health-packages.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/archive 3.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single-health-blogs.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single 6.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single 3.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single 5.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single-cat-patient-queries.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/et-pagebuilder.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single 4.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/tag.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/entry.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/single 2.php",
+		"/C/Users/Ujjal/AppData/Local/Temp/fz3temp-2/category-5.php"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"E:\\Projects\\MasterHomeopathy\\12-4-2018\\mastershomeo",
+			"E:\\Projects\\CosmoSureClinic\\11-4-2018",
+			"E:\\Projects\\CosmoSureClinic\\11-4-2018\\themes\\cosmosure",
+			"E:\\Projects\\CosmoSureClinic\\11-4-2018",
+			"C:\\xampp\\htdocs\\besthairtransplanthyd",
+			"C:\\xampp\\htdocs\\codestar\\wp-content\\themes\\twentyseventeen\\cs-framework",
+			"",
+			"C:\\xampp\\htdocs\\drgowds",
+			"C:\\xampp\\htdocs\\codestar\\wp-content\\themes\\twentyseventeen\\cs-framework",
+			"E:\\Projects\\HairSureTransplant\\hairsure",
+			"E:\\Projects\\SriSriHolisticHospitals\\4-4-2018\\betheme",
+			"E:\\Projects\\Hairsure\\22-3-2018\\unicon",
+			"E:\\Projects\\Medisys\\21-3-2018\\medisys",
+			"E:\\Projects\\Medisys\\21-3-2018\\medisys\\wp-content\\themes\\medisys",
+			"E:\\Projects\\Medisys\\21-3-2018\\medisys\\wp-content\\themes",
+			"E:\\Projects\\Medisys\\13-3-2018\\themes",
+			"E:\\Projects\\Medisys\\9-3-2018\\health-package-plugin",
+			"E:\\Project-backup\\Cosmosure\\backup-20-2-2018\\cosmosure-20-2-2018",
+			"E:\\Projects\\Chakri\\5-3-2018",
+			"",
+			"E:\\Projects\\Neelima\\23-2-2013\\themes\\themes\\Divi",
+			"E:\\Projects\\Neelima\\23-2-2013\\themes\\themes\\divibusinesspro",
+			"E:\\Projects\\Neelima\\23-2-2013\\themes\\themes",
+			"E:\\Projects\\SriSriHolisticHospitals\\16-2-2018\\betheme",
+			"E:\\Projects\\SriSriHolisticHospitals\\12-2-2018\\betheme",
+			"E:\\Projects\\SriSriHolisticHospitals\\12-2-2018\\list-category-posts",
+			"E:\\Projects\\SriSriHolisticHospitals\\12-2-2018\\betheme",
+			"E:\\Projects\\MasterHomeopathy\\12-2-2018\\mastershomeo",
+			"C:\\xampp\\htdocs\\ambrosia",
+			"C:\\Users\\Ujjal\\Downloads\\testify(1)\\testify",
+			"C:\\Users\\Ujjal\\Desktop\\medico-plugin",
+			"E:\\Projects\\DrGowdsDental\\backup-8-11-2017\\drgowds",
+			"E:\\Projects\\SriSriHolisticHospitals\\4-1-2018\\srisri",
+			"E:\\Projects\\SriSriHolisticHospitals\\3-1-2018\\betheme",
+			"C:\\Users\\Ujjal\\Downloads\\rss-post-importer.2.5.2\\rss-post-importer",
+			"E:\\Project-backup\\SunShineHospital\\backup-24-11-2017\\sunshine-hospital",
+			"E:\\all-in-one-seo\\all-in-one-seo-pack.2.4.3\\all-in-one-seo-pack",
+			"E:\\Project-backup\\MasterHomeopathy\\masters-homeopathy,E:\\Projects\\DrGowdsDental\\backup-8-11-2017\\drgowds,E:\\all-in-one-seo\\all-in-one-seo-pack.2.4.3\\all-in-one-seo-pack",
+			"E:\\Project-backup\\MasterHomeopathy\\masters-homeopathy,E:\\Projects\\DrGowdsDental\\backup-8-11-2017\\drgowds",
+			"E:\\Project-backup\\MasterHomeopathy\\masters-homeopathy",
+			"E:\\Projects\\Hairsure\\10-11-2017\\unicon"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fetch",
+			"Posts Tabs",
+			"Post Tabs",
+			"$cmsmasters_post_title",
+			"<article",
+			"last",
+			"print_r",
+			"<script",
+			"script",
+			"consol",
+			"consol.log",
+			"__send",
+			"recursive_array_search",
+			"var_dump",
+			"get_bloginfo('siteurl')",
+			"get_bloginfo",
+			"THEMEDOMAIN",
+			"wp_",
+			"Featured_Post_Widget",
+			"Bne_Testmonial",
+			"Patient_Results",
+			"Patient_Reviews",
+			"Services_Categories",
+			"widget",
+			"Wp_",
+			"$icna_options",
+			"__send",
+			"slug_text",
+			"medico-custom-post-meta-info",
+			"$icna_options",
+			"health-blog-inner-page",
+			"blog-title",
+			"http://www.besthairtransplanthyd.com",
+			"best",
+			"trusted_host_patterns",
+			"news",
+			"opcache.enable",
+			"php_opcode_caching",
+			"php opcode caching",
+			"PHP OPCODE CACHING",
+			"opcache.enable_cli",
+			"opcache.memory_consumption",
+			"book",
+			"book-now-button",
+			"<h5>",
+			"health-pack-button-desc",
+			"custom page side option",
+			"custom page sidebar option",
+			"custom page option",
+			"$breakurl",
+			"the_content",
+			"et_post_meta_wrapper",
+			"$thumb",
+			"$style",
+			"entry-content",
+			"entry-title",
+			"http://www.drchakradhar.com",
+			"drchakradhar",
+			"blog-banner-image",
+			"twentyseventeen_get_svg",
+			"Codestar Framework",
+			"parent::",
+			"Tesmonial_Categories",
+			"Celebrityvisits_Categories",
+			"WP_Widget",
+			"Tesmonial_Categories",
+			"WP_Widget",
+			"$icna_options",
+			"mpm_options",
+			"AUTOMATIC_UPDATER_DISABLED",
+			"WP_AUTO_UPDATE_CORE",
+			"the_content",
+			"<article",
+			"health-blog-inner-page",
+			"health-blog-inner-page clearfix",
+			"ucword",
+			"blog-image-main",
+			"blog-title",
+			"blog-oral-section-div",
+			"et_divi_post_format_content(",
+			"<article",
+			"entry-title",
+			"blog-title",
+			"entry-title",
+			"blog-title",
+			"entry-title",
+			"blog-title",
+			"entry-title",
+			"date",
+			"view",
+			"best_the_homepage_article",
+			"twentyseventeen_get_svg",
+			"$post_id",
+			"$image_url",
+			"mfn_builder_print",
+			"post-wrapper-content",
+			"the_content_wrapper",
+			"section_wrapper",
+			"the_content_wrapper",
+			"Blog",
+			"$(",
+			"owl-carousel",
+			"single-title1",
+			"class",
+			"Featured_Post_Widget",
+			"widget",
+			"$icna_options",
+			"insert_after_content",
+			"add_filter",
+			"postsby",
+			"ChildClass method called",
+			"hash",
+			"Posted by",
+			"best_the_homepage_article",
+			"page-caption",
+			"blog-inner-title",
+			"single_post",
+			"entry-content",
+			"post-info",
+			"post-single-content box mark-links entry-content",
+			"recursive_array_search",
+			"blog-image-main clearfix",
+			"blog opened-article",
+			"cmsmasters_post_content entry-content",
+			"blog-content-details-right",
+			"post-single-content box mark-links entry-content",
+			"entry-content",
+			"content"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'themedomain'",
+			"http://localhost/besthairtransplanthyd",
+			"http://localhost/chakris",
+			"<p>",
+			"http://localhost/medisys",
+			"return 'Not found'",
+			"return 'found'",
+			"http://localhost/ankura",
+			"post_views_count",
+			"",
+			"public",
+			"label",
+			"show_date",
+			"mpm_pwd",
+			"mpm_uname",
+			"mpm",
+			"medico_post_meta",
+			"http://localhost/cosmosure",
+			"http://localhost/ambrosia",
+			"http://localhost/drmanoj",
+			"-testify-",
+			"_testify_",
+			"My_CPT_Testify_Rest_Server",
+			"ion_cpt_testify",
+			"$url",
+			"ion-cpt-ba-api",
+			"ion_cpt_ba_plugin_action_links",
+			"ion_cpt_ba_add_my_css_and_my_js_files",
+			"ion_cpt_ba_help_page",
+			"custom_ion_cpt_ba_setting",
+			"\"",
+			"$img_path",
+			"ION Befor After API",
+			"$this->image_url",
+			"single_auth_id",
+			"count_aut",
+			"author_arr",
+			"$single_tag_id",
+			"count_tag",
+			"tag_arr",
+			"http://globalwingstour.com",
+			"http://localhost/sunshine",
+			"update_custom_post_permission",
+			"http://localhost/custombuild",
+			"icpt_options",
+			"ioncpt_activate",
+			"icpt_options",
+			"ion-cpt-settings-group",
+			"ion_cpt_register_settings",
+			"",
+			"'",
+			"cf",
+			" ",
+			"'",
+			"http://localhost/drgowds",
+			"http://localhost/drgowds/",
+			"http://localhost/drgowds",
+			"icna",
+			"ion",
+			"",
+			"http://iondemo.in/drgowds"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
